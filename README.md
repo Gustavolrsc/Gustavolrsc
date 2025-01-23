@@ -1,6 +1,6 @@
 # 👨🏿‍💻 Gustavo Souza
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full-Stack`**
 Meu nome é Gustavo Lima Ramos Souza, tenho 24 anos e sou de São Paulo - SP. Sou Técnico em Informática pelo IFBA e estudante de Análise e Desenvolvimento de Sistemas na UCB.
 
 Concluí o programa Oracle Next Education (ONE) - Turma 7, onde desenvolvi uma base sólida em tecnologias, com foco em back-end e lógica de programação, criando soluções robustas e escaláveis.
