@@ -23,7 +23,14 @@ Busco ingressar no mercado de tecnologia, contribuindo para projetos que gerem i
         />
     </a>
 </p>
-
+<a href="https://www.instagram.com/_gurx/" target="_blank">
+    <img 
+        alt="Instagram" 
+        title="Instagram" 
+        src="https://custom-icon-badges.demolab.com/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+</a>
+<a href="mailto:gustavolrsc@gmail.com" target="_blank">
 
     <img 
         alt="Gmail" 
