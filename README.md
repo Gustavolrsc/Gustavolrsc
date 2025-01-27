@@ -8,43 +8,44 @@ Concluí o programa Oracle Next Education (ONE) - Turma 7, onde desenvolvi uma b
 Busco ingressar no mercado de tecnologia, contribuindo para projetos que gerem impacto positivo, enquanto continuo evoluindo profissionalmente.
 
 <p align="left">
-    <a href="https://github.com/Gustavolrs?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Gustavolrs?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Gustavolrs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            title="Total de estrelas no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Gustavolrs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
         />
     </a>
-    <a href="https://github.com/Gustavolrs?tab=followers">
+    <a href="https://github.com/Gustavolrs?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Gustavolrs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Gustavolrs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
         />
     </a>
 </p>
-<a href="https://www.instagram.com/_gurx/" target="_blank">
-    <img 
-        alt="Instagram" 
-        title="Instagram" 
-        src="https://custom-icon-badges.demolab.com/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-</a>
-<a href="mailto:gustavolrsc@gmail.com" target="_blank">
-
-    <img 
-        alt="Gmail" 
-        title="Enviar um e-mail" 
-        src="https://custom-icon-badges.demolab.com/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-</a>
-<a href="https://www.linkedin.com/in/Gustavolrsc/" target="_blank">
-    <img 
-        alt="LinkedIn" 
-        title="LinkedIn" 
-        src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-</a>
+<p align="left">
+    <a href="https://www.instagram.com/_gurx/" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" 
+        />
+    </a>
+    <a href="mailto:gustavolrsc@gmail.com" target="_blank">
+        <img 
+            alt="Gmail" 
+            title="Enviar um e-mail" 
+            src="https://custom-icon-badges.demolab.com/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" 
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/Gustavolrsc/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" 
+        />
+    </a>
+</p>
 
 
 ---
