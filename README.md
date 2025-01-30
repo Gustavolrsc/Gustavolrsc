@@ -1,11 +1,7 @@
 # 👨🏿‍💻 Gustavo Souza
 
 **`Desenvolvedor Full-Stack`**
-Meu nome é Gustavo Lima Ramos Souza, tenho 24 anos e sou de São Paulo - SP. Sou Técnico em Informática pelo IFBA e estudante de Análise e Desenvolvimento de Sistemas na UCB.
-
-Concluí o programa Oracle Next Education (ONE) - Turma 7, onde desenvolvi uma base sólida em tecnologias, com foco em back-end e lógica de programação, criando soluções robustas e escaláveis.
-
-Busco ingressar no mercado de tecnologia, contribuindo para projetos que gerem impacto positivo, enquanto continuo evoluindo profissionalmente.
+Desenvolvedor Full-Stack apaixonado por tecnologia e inovação, especializado em criar soluções escaláveis e eficientes a partir de ideias. Meu primeiro contato com programação foi em 2016, no Instituto Federal, onde construí uma base sólida em lógica e Java. Hoje, trabalho tanto no front-end quanto no back-end, utilizando tecnologias como Angular, JavaScript, HTML e CSS no front, e Java, Spring Boot e bancos de dados (SQL Server, MySQL, PostgreSQL) no back.
 
 <p align="left">
     <a href="https://github.com/Gustavolrs?tab=repositories&sort=stargazers" target="_blank">
