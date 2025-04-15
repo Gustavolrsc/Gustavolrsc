@@ -2,9 +2,10 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou um desenvolvedor full stack apaixonado por tecnologia e inovação, especializado em transformar ideias em soluções escaláveis e eficientes. Meu primeiro contato com a programação foi em 2016, no Instituto Federal, onde construí uma base sólida em lógica e Java. 
+Sou um desenvolvedor full stack apaixonado por tecnologia e inovação, especializado em transformar ideias em soluções escaláveis e eficientes. Meu primeiro contato com a programação foi em 2016, no Instituto Federal, onde construí uma base sólida em lógica e Java.
 
-Atualmente, atuo tanto no front-end quanto no back-end, com destaque para projetos utilizando Angular e Spring Boot, incluindo a realização de deploy das aplicações em ambientes produtivos.
+Tenho atuado tanto no front-end quanto no back-end, com foco em projetos que utilizam Angular e Spring Boot. Também possuo experiência na realização de deploy de aplicações em ambientes produtivos.
+
 ---
 
 <p align="left">
@@ -54,7 +55,6 @@ Atualmente, atuo tanto no front-end quanto no back-end, com destaque para projet
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Lombok" title="Lombok" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lombok/lombok-original.svg" />
 <img align="left" alt="JUnit" title="JUnit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -66,7 +66,6 @@ Atualmente, atuo tanto no front-end quanto no back-end, com destaque para projet
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/><br/>
-
 
 ---
 
