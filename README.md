@@ -54,24 +54,16 @@ Atualmente, atuo tanto no front-end quanto no back-end, com destaque para projet
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Spring Security" title="Spring Security" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-spring-security-a-powerful-and-highly-customizable-authentication-and-access-control-framework-logo-color-tal-revivo.png" />
-<img align="left" alt="Spring MVC" title="Spring MVC" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/spring-logo.png" />
-<img align="left" alt="Spring Data JPA" title="Spring Data JPA" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-spring-data-jpa-part-of-the-larger-spring-data-family-logo-color-tal-revivo.png" />
-<img align="left" alt="JWT" title="JWT" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/json-web-token.png" />
-<img align="left" alt="Lombok" title="Project Lombok" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lombok/lombok-original.svg" />
+<img align="left" alt="Lombok" title="Lombok" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lombok/lombok-original.svg" />
 <img align="left" alt="JUnit" title="JUnit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" />
-<img align="left" alt="Swagger" title="Swagger / OpenAPI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/swagger.png" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="H2 Database" title="H2 Database" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/fluency/48/database.png" />
 <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Insomnia" title="Insomnia" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-insomnia-a-free-cross-platform-desktop-application-design-logo-color-tal-revivo.png" />
-<img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/ios-filled/50/000000/vercel.png" />
 
 <br/><br/>
 
