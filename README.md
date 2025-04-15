@@ -9,18 +9,18 @@ Atualmente, atuo tanto no front-end quanto no back-end, utilizando tecnologias c
 ---
 
 <p align="left">
-  <a href="https://github.com/Gustavolrs?tab=repositories&sort=stargazers" target="_blank">
+  <a href="https://github.com/Gustavolrsc?tab=repositories&sort=stargazers" target="_blank">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/Gustavolrs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
+      src="https://custom-icon-badges.demolab.com/github/stars/Gustavolrsc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
     />
   </a>
-  <a href="https://github.com/Gustavolrs?tab=followers" target="_blank">
+  <a href="https://github.com/Gustavolrsc?tab=followers" target="_blank">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/Gustavolrs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Gustavolrsc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
     />
   </a>
 </p>
@@ -74,8 +74,5 @@ Atualmente, atuo tanto no front-end quanto no back-end, utilizando tecnologias c
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolrsc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
-
----
-
