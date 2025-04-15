@@ -77,3 +77,9 @@ Tenho atuado tanto no front-end quanto no back-end, com foco em projetos que uti
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolrsc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
+
+---
+
+### 🐍 Snake Commit Animation
+
+![snake gif](https://github.com/Gustavolrsc/Gustavolrsc/blob/output/github-contribution-grid-snake.svg)
