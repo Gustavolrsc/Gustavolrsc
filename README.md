@@ -4,8 +4,7 @@
 
 Sou um desenvolvedor full stack apaixonado por tecnologia e inovação, especializado em transformar ideias em soluções escaláveis e eficientes. Meu primeiro contato com a programação foi em 2016, no Instituto Federal, onde construí uma base sólida em lógica e Java. 
 
-Atualmente, atuo tanto no front-end quanto no back-end, utilizando tecnologias como **Angular**, **JavaScript**, **HTML** e **CSS** no front, e **Java**, **Spring Boot** e bancos de dados como **SQL Server**, **MySQL** e **PostgreSQL** no back.
-
+Atualmente, atuo tanto no front-end quanto no back-end, com destaque para projetos utilizando Angular e Spring Boot, incluindo a realização de deploy das aplicações em ambientes produtivos.
 ---
 
 <p align="left">
