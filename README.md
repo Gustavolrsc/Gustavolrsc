@@ -26,13 +26,6 @@ Tenho atuado tanto no front-end quanto no back-end, com foco em projetos que uti
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/_gurx/" target="_blank">
-    <img 
-      alt="Instagram" 
-      title="Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" 
-    />
-  </a>
   <a href="mailto:gustavolrsc@gmail.com" target="_blank">
     <img 
       alt="Gmail" 
