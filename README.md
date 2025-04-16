@@ -75,9 +75,8 @@ Tenho atuado tanto no front-end quanto no back-end, com foco em projetos que uti
 
 ---
 
-### 🐍 Snake Commit Animation
-
 <p align="center">
+  <strong>🐍 Snake Commit Animation</strong><br/>
   <img 
     src="https://raw.githubusercontent.com/Gustavolrsc/Gustavolrsc/output/snake.svg" 
     alt="Snake animation" 
